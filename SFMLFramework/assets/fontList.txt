@@ -1,0 +1,1 @@
+lt_energy,assets/fonts/lt_energy.ttf

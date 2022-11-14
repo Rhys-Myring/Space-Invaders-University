@@ -1,0 +1,4 @@
+menuMusic,assets/audio/menuMusic.wav
+gameMusic,assets/audio/gameplayMusic.wav
+death,assets/audio/explosion.wav
+shoot,assets/audio/fire.wav

@@ -1,0 +1,7 @@
+background,assets/images/background.png
+bullet,assets/images/bullet.png
+enemyBullet,assets/images/enemyBullet.png
+invader,assets/images/invader.png
+menu,assets/images/menuBackground.png
+player,assets/images/player.png
+logo,assets/images/spaceInvadersLogo.png

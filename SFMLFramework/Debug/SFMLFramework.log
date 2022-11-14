@@ -1,0 +1,25 @@
+﻿  AnimatedGameSprite.cpp
+  Animation.cpp
+  Bullet.cpp
+  CollisionDetector.cpp
+  FontManager.cpp
+  Game.cpp
+  GameSprite.cpp
+  GameText.cpp
+  Helpers.cpp
+  HighScoreManager.cpp
+  Invader.cpp
+  InvaderFormationManager.cpp
+  Main.cpp
+  MouseManager.cpp
+  Player.cpp
+  ConfigSettingsManager.cpp
+  ScoreManager.cpp
+  EnemyBullet.cpp
+  SoundManager.cpp
+  TextInputManager.cpp
+  Generating Code...
+  Compiling...
+  TextureManager.cpp
+  Generating Code...
+  SFMLFramework.vcxproj -> C:\Users\Rhys.Myring.ADM\OneDrive - Birmingham City University\Module8\Work\Game\SFMLFramework\Debug\SFMLFramework.exe
